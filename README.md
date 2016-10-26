@@ -1,2 +1,2 @@
 # devops
-devops_personal
+devops_personal_automation
